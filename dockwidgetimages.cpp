@@ -58,6 +58,7 @@ void DockWidgetImages::handlerParametroChanged(QString id)
     }
 }
 
+
 paramImagen_t DockWidgetImages::getCurrentParameters()
 {
     return imageParameters;
